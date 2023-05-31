@@ -2,3 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer {
+    html,body{
+        height: 100%;
+        color: white;
+    }
+}
