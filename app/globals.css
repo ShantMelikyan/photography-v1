@@ -5,6 +5,9 @@
 @layer {
     html,body{
         height: 100%;
-        color: white;
+        color: white;   
+        font-family: var(--font-inter);
+
     }
+
 }
