@@ -6,9 +6,9 @@ export default function Home() {
     <div>
    
       <main className="">
-        <p className="bg-red-600">main</p>
+        <p className="">main</p>
       </main>
-      
+
       <footer>
         <p>placeholder footer</p>
       </footer>
